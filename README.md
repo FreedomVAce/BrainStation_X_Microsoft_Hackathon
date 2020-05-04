@@ -1,7 +1,7 @@
 # BrainStation X Microsoft Hackathon
 
 <p align="center">
- <img src="Team_Intro.png" width="800" height="400">
+ <img src="Team_Intro.png" width="800" height="450">
 </p> <br>
 
 ## Introduction 
@@ -22,7 +22,7 @@ Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSd29OZr6-dX6shg7QXY3J9mbLo
 
 ## Team 17: Team Rocket 
 <p align="center">
- <img src="Teammate.png" width="800" height="400">
+ <img src="Teammate.png" width="800" height="450">
 </p> <br>
 
 LinkedIn Profile: https://www.linkedin.com/in/austin-yu-a6a26419b/
