@@ -25,7 +25,7 @@ Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSd29OZr6-dX6shg7QXY3J9mbLo
  <img src="Teammate.png" width="800" height="450">
 </p> <br>
 
-LinkedIn Profile: https://www.linkedin.com/in/austin-yu-a6a26419b/
+LinkedIn Profile: https://www.linkedin.com/in/austinykw/
 
 ## Completion Time
 * 3 Days
